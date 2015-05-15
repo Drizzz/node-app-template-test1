@@ -1,5 +1,5 @@
 {
-  "name": "enter-app-name-here",
+  "name": "test-alchemy-app",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,8 @@
   "dependencies": {
     "body-parser": "^1.9.3",
     "express": "^4.0.0",
-    "innometrics-helper": "*"
+    "request": "^2.45.0",
+    "innometrics-helper": "^0.0.4"
   },
   "engines": {
     "node": "0.10.x"
