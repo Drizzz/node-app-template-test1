@@ -1,11 +1,22 @@
 body {
-    font-size: 14px;
+    padding: 0;
+    margin: 15px;
 }
 
-.stream, .row {
-    margin: 0;
+form .well-sm {
+    padding: 0;
+    margin-bottom: 15px;
 }
 
-.quote {
-    padding-top: 55px;
+form label {
+    display: block;
+}
+
+form .form-control {
+    width: 180px !important;
+    max-height: 80px;
+}
+
+.row {
+    margin: 10px 0px;
 }
